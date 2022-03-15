@@ -6,5 +6,6 @@ namespace Pis
 {
     class Class1
     {
+        Console.WriteLine("Hello World!");
     }
 }
