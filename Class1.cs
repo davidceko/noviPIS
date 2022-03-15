@@ -8,5 +8,5 @@ namespace Pis
     {
     }
 
-    //promjena u dodanoj klasi2
+    //promjena u dodanoj klasi
 }
