@@ -7,4 +7,6 @@ namespace Pis
     class Class1
     {
     }
+    
+    //promjena u dodanoj klasi
 }
